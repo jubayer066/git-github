@@ -1,2 +1,7 @@
 Hi this is  bappy and working on v1.
 I am learning git and github today. 
+
+
+HI this i new file for ALL 
+UNDERSTANDING git is more important for all of web dev students 
+this is the key.
